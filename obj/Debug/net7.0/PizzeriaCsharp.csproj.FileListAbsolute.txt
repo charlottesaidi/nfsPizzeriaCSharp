@@ -1,0 +1,14 @@
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\bin\Debug\net7.0\PizzeriaCsharp.exe
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\bin\Debug\net7.0\PizzeriaCsharp.deps.json
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\bin\Debug\net7.0\PizzeriaCsharp.runtimeconfig.json
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\bin\Debug\net7.0\PizzeriaCsharp.dll
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\bin\Debug\net7.0\PizzeriaCsharp.pdb
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\PizzeriaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\PizzeriaCsharp.AssemblyInfoInputs.cache
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\PizzeriaCsharp.AssemblyInfo.cs
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\PizzeriaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\PizzeriaCsharp.dll
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\refint\PizzeriaCsharp.dll
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\PizzeriaCsharp.pdb
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\PizzeriaCsharp.genruntimeconfig.cache
+C:\Users\Charlotte\Source\Repos\pizzeria-charlottesaidi\PizzeriaCsharp\obj\Debug\net7.0\ref\PizzeriaCsharp.dll
